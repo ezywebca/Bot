@@ -4,3 +4,4 @@ lib/
 
 logs/*/*
 config.json
+node_modules
