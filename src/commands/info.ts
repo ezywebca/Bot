@@ -4,7 +4,7 @@ import { MessageEmbed } from 'discord.js';
 export default class InfoCommand implements Command {
   precondition: Permission = '';
   name = 'info';
-  summary = 'Get stats about 3PG';
+  summary = 'Get stats about PhoxBot';
   cooldown = 1;
   module = 'General';
   
