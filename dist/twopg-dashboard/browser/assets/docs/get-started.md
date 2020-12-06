@@ -1,11 +1,11 @@
 # Getting Started
-This guide will show you how to get started with 3PG
+This guide will show you how to get started with PhoxBot
 
 ---
 
 ## Step 1
 **Invite the bot**
-Invite the bot to your server: https://3PG.xyz/invite.
+Invite the bot to your server: https://dashb.phoxhost.ca/invite.
 This will redirect you to a Discord oauth link where you can add the bot.
 
 ![Invite 3PG via Discord](assets/docs/img/invite-bot.gif)
@@ -13,16 +13,16 @@ This will redirect you to a Discord oauth link where you can add the bot.
 ---
 
 ## Step 2
-**Customize 3PG with the Dashboard**
-This can be done at https://3PG.xyz/dashboard and clicking on your server,
-or by https://3PG.xyz/servers/[yourServerId] and replacing `[yourServerId]` with your server ID.
+**Customize PhoxBot with the Dashboard**
+This can be done at https://dashb.phoxhost.ca/dashboard and clicking on your server,
+or by https://dashb.phoxhost.ca/servers/[yourServerId] and replacing `[yourServerId]` with your server ID.
 
-![Customize 3PG via Dashboard](assets/docs/img/customize-bot.gif)
+![Customize PhoxBot via Dashboard](assets/docs/img/customize-bot.gif)
 
 ---
 
 ## Step 3
-**Use 3PG in your server**
+**Use PhoxBot in your server**
 Type commands with the set prefix (default: `.`).
 
 ![Use 3PG](assets/docs/img/use-bot.gif)
