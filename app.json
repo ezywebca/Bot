@@ -1,13 +1,13 @@
 {
-  "name": "3PG - Highly Customizable Discord Bot",
+  "name": "PhoxBot - The All In One Customizable Bot!",
   "description": "Host a bot without code, with one simple step.",
   "keywords": [
     "bot",
     "discord bot",
     "customizable discord bot",
-    "3pg"
+    "phoxbot"
   ],
-  "repository": "https://github.com/theADAMJR/6PG",
+  "repository": "https://github.com/ezywebca/Bot",
   "env": {
     "API_URL": {
       "description": "The API URL [https://<heroku_app_name>.herokuapp.com/api]",    
@@ -31,7 +31,7 @@
     },
     "GUILD_ID": {
       "description": "Guild ID with the premium role in (optional).",    
-      "value": "https://<heroku_app_name>.herokuapp.com",
+      "value": "YourServersID#-Here",
       "required": false
     },
     "MONGO_URI": {
