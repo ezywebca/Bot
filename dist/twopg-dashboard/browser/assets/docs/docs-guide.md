@@ -1,5 +1,5 @@
 # Docs
-A guide on how to maximize your experience, using the 3PG docs.
+A guide on how to maximize your experience, using the PhoxBot docs.
 
 ---
 
