@@ -1,6 +1,6 @@
 # PhoxBot
 The Multi Purpose Discord Bot!
-Invite Our Bot @ https://dashb.phoxhost.ca
+Invite Our Bot @ https://dash.phoxhost.ca
 
 This Dashboard is slowey being redone and changed to 
 A Not copy right infringe and 
