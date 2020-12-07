@@ -1,2 +1,2 @@
-# Get 3PG Dashboard Updates in Your Server
+# Get PhoxBot Dashboard Updates in Your Server
 

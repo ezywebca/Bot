@@ -8,7 +8,7 @@ This guide will show you how to get started with PhoxBot
 Invite the bot to your server: https://dash.phoxhost.ca/invite.
 This will redirect you to a Discord oauth link where you can add the bot.
 
-![Invite 3PG via Discord](assets/docs/img/invite-bot.gif)
+![Invite PhoxBot via Discord](assets/docs/img/invite-bot.gif)
 
 ---
 
@@ -25,4 +25,4 @@ or by https://dash.phoxhost.ca/servers/[yourServerId] and replacing `[yourServer
 **Use PhoxBot in your server**
 Type commands with the set prefix (default: `.`).
 
-![Use 3PG](assets/docs/img/use-bot.gif)
+![Use PhoxBot](assets/docs/img/use-bot.gif)

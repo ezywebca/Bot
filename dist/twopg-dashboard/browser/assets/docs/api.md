@@ -1,5 +1,5 @@
 # API
-Interact with 3PG through HTTP requests
+Interact with PhoxBot through HTTP requests
 
 ---
 
@@ -19,4 +19,4 @@ Code | Description
 500  | Internal server error (rare)
 
 ## Rate Limiting
-3PG API has rate limiting to limit misuse of the API.
+PhoxBot API has rate limiting to limit misuse of the API.

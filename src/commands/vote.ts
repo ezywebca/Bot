@@ -8,10 +8,7 @@ export default class FlipCommand implements Command {
   module = 'General';
   
   execute = async(ctx: CommandContext) => {
-    return ctx.channel.send(`
-      https://dbots.co/bots/525935335918665760/vote
-      https://top.gg/bot/525935335918665760/vote
-      https://discordbotlist.com/bots/525935335918665760/upvote`.trim()
+    return ctx.channel.send(`When We List Our Bot We Will Ad A Vote`.trim()
     );
   }
 }
