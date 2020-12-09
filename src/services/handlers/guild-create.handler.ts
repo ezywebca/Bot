@@ -15,6 +15,6 @@ export default class GuildCreateHandler implements EventHandler {
 
   private sendWelcomeMessage(channel: TextChannel | null) {
     const url = `${process.env.DASHBOARD_URL}/servers/${channel.guild.id}`;
-    channel?.send(`Hey, I'm 3PG! Customize me at ${url}`);
+    channel?.send(`Hey, Thanks For Inviting Me I'm PhoxBot Pro I have 115+ commands from ticket support / games / role react menus and more! Customize me at ${url}`);
   }  
 }
